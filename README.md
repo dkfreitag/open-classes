@@ -6,7 +6,7 @@ Python program to automate finding open class sections on the Baruch College CUN
 
 **Results:** I grabbed open seats in two of the classes I wanted using this program.
 
-**Author's note:** I wrote this before actually taking a formal class in Python, so some of the coding style might be a bit rough around the edges. I don't have a real use for this script now, so I haven't been motivated to clean it up, but I'm still posting the code here for posterity.
+**Author's note:** I wrote this before actually taking a formal class in Python, so some of the coding style might be a bit unconventional. I don't have a real use for this script now, so I haven't been motivated to clean it up, but I'm still posting the code here for posterity.
 
 **How it works:** this script uses **webdriver** to run a headless (no window) instance of Chrome. It also uses the **Twilio SMS API** to send text messages.
 
