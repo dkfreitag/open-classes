@@ -17,7 +17,7 @@ To run, you will need to modify the script to:
 - Use your Twilio SMS API credentials (sign up for a free acount here: https://www.twilio.com/docs/sms/api)
 - Just use the start_script.sh shell script to run the program. The shell script restarts the program if it crashes due to anything unusual happening (e.g. the CUNYfirst page not loading properly).
 
-### Making changes to main.ph
+### Making changes to main.py
 - Adjust the the find_open_classes() function arguments to be whatever class you are looking for. Call the function multiple times if you are looking for multiple classes.
 
 ### Making changes to open_classes.py
